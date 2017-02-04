@@ -1,16 +1,45 @@
 h1{
-font-family: whitney;
-font-size: 20 px;
-font-weight: 500;
+font-family: helvetica;
+font-size: 60px;
+letter-spacing: 5px;
 text-transform: none;
+color: #fff;
+}
+
+h3 {
+font-family: helvetica;
+font-size: 10px;
+color: #fff;
+
+}
+
+body{
+
+	text-align: center;
+	background-color: #294484;
 }
 
 p {
-
-
+	font-family: helvetica;
+	font-size: 20px;
+	color: #fff;
 }
 
-a{
+a {
 
-
+	font-family: helvetica;
+	font-size: 20px;
+	color: #fff;
+	text-decoration: none;
+    padding: 8px;
 }
+
+li {
+    display: inline;
+}
+
+li a:hover {
+    background-color: #111;
+    color: #f20881;
+}
+
