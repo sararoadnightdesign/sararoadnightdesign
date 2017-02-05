@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Pattaya')
+@import url('https://fonts.googleapis.com/css?family=Pattaya');
 
 h1{
 font-family: 'Pattaya', sans-serif;
-font-size: 60px;
+font-size: 70px;
 letter-spacing: 5px;
-text-transform: none;
 color: #fff;
 }
 
@@ -18,7 +17,7 @@ color: #fff;
 body{
 
 	text-align: center;
-	background-color: #294484;
+	background-color: #1cced5;
 }
 
 p {
@@ -41,7 +40,7 @@ li {
 }
 
 li a:hover {
-    background-color: #111;
+    
     color: #f20881;
 }
 
